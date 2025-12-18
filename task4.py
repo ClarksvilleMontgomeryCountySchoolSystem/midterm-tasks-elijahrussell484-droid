@@ -15,7 +15,7 @@ print(favorite_color)
 # Snippet 3:
 cats = 3
 dogs = 2
-total_pets = cats + dog
+total_pets = cats + dogs
 print(f"Total pets: {total_pets}")
 
 
@@ -42,7 +42,7 @@ print("You reached level 5!")
 # Snippet 7:
 width = 8
 height = 10
-area = widht * height
+area = width * height
 print(f"Area: {area}")
 
 
